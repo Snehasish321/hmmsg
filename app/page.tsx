@@ -1059,7 +1059,7 @@ export default function Home() {
             <Tooltip>
               <TooltipTrigger asChild>
                 <a
-                  href="https://github.com"
+                  href="https://github.com/Snehasish321"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 rounded-full bg-gray-200/80 dark:bg-gray-800/80 backdrop-blur-sm hover:bg-gray-300 dark:hover:bg-gray-700 transition-colors"
@@ -1077,7 +1077,7 @@ export default function Home() {
             <Tooltip>
               <TooltipTrigger asChild>
                 <a
-                  href="https://twitter.com"
+                  href="https://x.com/Snehasish1603"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 rounded-full bg-gray-200/80 dark:bg-gray-800/80 backdrop-blur-sm hover:bg-gray-300 dark:hover:bg-gray-700 transition-colors"
@@ -1095,7 +1095,7 @@ export default function Home() {
             <Tooltip>
               <TooltipTrigger asChild>
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/snehasish-mondal-162016281/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 rounded-full bg-gray-200/80 dark:bg-gray-800/80 backdrop-blur-sm hover:bg-gray-300 dark:hover:bg-gray-700 transition-colors"
