@@ -1073,7 +1073,7 @@ export default function Home() {
             </Tooltip>
           </TooltipProvider>
 
-          <TooltipProvider>
+          {/* <TooltipProvider>
             <Tooltip>
               <TooltipTrigger asChild>
                 <a
@@ -1089,9 +1089,9 @@ export default function Home() {
                 <p>Twitter</p>
               </TooltipContent>
             </Tooltip>
-          </TooltipProvider>
+          </TooltipProvider> */}
 
-          <TooltipProvider>
+          {/* <TooltipProvider>
             <Tooltip>
               <TooltipTrigger asChild>
                 <a
@@ -1107,7 +1107,7 @@ export default function Home() {
                 <p>LinkedIn</p>
               </TooltipContent>
             </Tooltip>
-          </TooltipProvider>
+          </TooltipProvider> */}
         </div>
       </div>
     </>
